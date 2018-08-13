@@ -3,7 +3,7 @@
 # remove_matching_sequences_v*.py
 ###################################
 # Overview:
-#   Script analyses DNA multi-alignment sequence data and removes all identical
+#   Script analyses DNA multi sequence alignment data and removes all identical
 #   sequences found within.
 #   User can adjust matching fraction (how "identical" the sequences must be).
 #   Required input is any valid FASTA file with multiple sequences.

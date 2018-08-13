@@ -3,7 +3,7 @@
 # find_conserved_blocks_v*.py
 ###########################
 # Overview:
-#   Script analyses DNA multi-alignment sequence data and searches for areas
+#   Script analyses DNA multi sequence alignment data and searches for areas
 #   (blocks) which are conserved (i.e. identical or very similar). Required
 #   input is any valid FASTA file with multiple sequences.
 #   User can adjust matching fraction (1 = identical match) and length of

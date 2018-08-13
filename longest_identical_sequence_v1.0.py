@@ -3,7 +3,7 @@
 # longest_identical_sequence_v*.py
 ###################################
 # Overview:
-#   Script analyses DNA multi-alignment sequence data and searches for the
+#   Script analyses DNA multi sequence alignment data and searches for the
 #   longest identical sequence within.
 #   Required input is any valid FASTA file with multiple sequences.
 #   CSV file outputted with detailed of longest identified sequences.
